@@ -52,8 +52,7 @@ The core logic is implemented in a visual workflow on the Julep platform. The st
 6. **Tour Generation**: Final LLM block to compose the narrative tour  
 
 📎 **Workflow Link**:  
-🔗 [Click here to view the Julep Workflow](https://julep.ai/workflow/share/your-workflow-link-here)  
-_(Replace with your actual workflow share link from Julep)_
+🔗 [Click here to view the Julep Workflow](https://julep.ai/workflow/share/your-workflow-link-here)
 
 ---
 
